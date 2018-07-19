@@ -1,0 +1,18 @@
+input {
+  width: 160px;
+  margin-right: 30px;
+  padding: 10px 20px;
+  font-size: 1.1em;
+  border: 1px solid #848484;
+  border-radius: 8px;
+  float: right;
+  background:url(ic_search.png) no-repeat 160px;
+}
+
+input:hover {
+  border-color: #2cb3d1;
+}
+
+input:focus {
+  outline: none;
+}

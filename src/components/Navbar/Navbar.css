@@ -1,0 +1,15 @@
+.navbar {
+    width: 100%;
+    height: 67px;
+    background-color: #d8d8d8;
+  }
+  
+  .navbar img {
+    margin: 16px 40px 16px 150px;
+    width: 42px;
+    float: left;
+  }
+  
+  .navbar h2 {
+    float: left;
+  }
